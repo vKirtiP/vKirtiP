@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm VISHWA KIRTI PRABHAKAR</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/926537/screenshots/4502902/dev-ops-gif-dr.gif">
 
 - 🌱 I’m currently learning **AWS**
 
-- 💬 Ask me about **Linux, Python, Docker**
+- 💬 Ask me about **Linux, Python, Docker, Jenkins, Terraform, AWS**
 
 - 📫 How to reach me **vishvekirti7@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/vkirtip/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vkirtip/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
